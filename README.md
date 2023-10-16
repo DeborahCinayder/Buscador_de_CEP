@@ -30,6 +30,6 @@ O Buscador de CEP é uma ferramenta web dinâmica que permite aos usuários enco
 Link de produção: https://symphonious-phoenix-16d880.netlify.app/
 <br><br>
 Imagens do projeto:
-![buscador-de-cep](https://github.com/DeborahCinayder/Buscador_de_CEP/assets/118136155/5db73c15-b620-464b-8695-f123891afb93)
+<img src="![image](https://github.com/DeborahCinayder/Buscador_de_CEP/assets/118136155/ba959706-df91-460c-bf2c-4b8189c4c33f)">
 
 
