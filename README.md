@@ -1,4 +1,4 @@
-# Buscador_de_CEP
+# Buscador de CEP
 
 O Buscador de CEP é uma ferramenta web dinâmica que permite aos usuários encontrar informações detalhadas de CEPs em todo o Brasil. Este projeto é uma demonstração das minhas habilidades em desenvolvimento web e utiliza uma variedade de tecnologias para proporcionar uma experiência eficiente e amigável.
 
@@ -27,7 +27,9 @@ O Buscador de CEP é uma ferramenta web dinâmica que permite aos usuários enco
 <li><strong>Estilização de Página Web:</strong> O uso de CSS para estilizar a página mostra o conhecimento em design de interface.</li></ul>
 <br>
 <br>
-Link de produção: https://app.netlify.com/sites/symphonious-phoenix-16d880/overview
+Link de produção: https://symphonious-phoenix-16d880.netlify.app/
 <br><br>
 Imagens do projeto:
-![image](https://github.com/DeborahCinayder/Buscador_de_CEP/assets/118136155/da549e77-6511-4efb-9feb-383464011d7e)
+![buscador-de-cep](https://github.com/DeborahCinayder/Buscador_de_CEP/assets/118136155/5db73c15-b620-464b-8695-f123891afb93)
+
+
