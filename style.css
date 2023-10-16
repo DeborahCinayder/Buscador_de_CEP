@@ -1,0 +1,23 @@
+body {
+    box-sizing: border-box;
+    padding: 150px 500px;
+    background: linear-gradient(0deg, rgba(153, 168, 182, 1) 0%, rgba(57, 57, 57, 1) 52%, rgba(0, 0, 0, 1) 100%);
+    background-attachment: fixed;
+}
+
+.container {
+    background-color: azure;
+    border-radius: 25px;
+    padding: 15px 10px 45px 25px;
+}
+
+h1 {
+    font-size: 35px;
+    color: #000000;
+}
+
+input {
+    padding: 15px;
+    font-size: 15px;
+    border-radius: 15px;
+}
